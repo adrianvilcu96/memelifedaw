@@ -1,0 +1,1 @@
+web: gunicorn MemeLife.wsgi --log-file -
